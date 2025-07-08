@@ -8,7 +8,7 @@
 
 ---
 
-## 🟡 About Me
+## 🚀 About Me 👑
 
 Yo! I’m **w1sky** — part creative, part coder, all in.
 
@@ -24,7 +24,6 @@ I keep it real, stay curious, and always push forward. 📈✨
 🎯 **Focused on frontend right now**  
 🔥 **Backend up next**  
 💻 **Full-stack is the mission — and I’m all in.**  
-👑 **Gold standard mindset**
 
 ---
 

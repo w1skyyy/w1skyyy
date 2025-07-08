@@ -29,9 +29,9 @@ I keep it real, stay curious, and always push forward. 📈✨
 💻 **Full-stack is the mission — and I’m all in.**  
 
 ---
+<div align="center">
 
 ## 🛠️ Tech Stack
-<div align="center">
   
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

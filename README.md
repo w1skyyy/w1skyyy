@@ -1,9 +1,9 @@
 <div align="center">
 
-  <p>
-    <img src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Hi.gif" alt="👋" width="35" style="vertical-align: middle;"/>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=600&lines=Yo!+Welcome+to+w1sky's+GitHub+profile!" alt="Typing SVG" />
-  </p>
+ <h1>
+  <img src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Hi.gif" alt="👋" width="30" style="vertical-align: middle;"/>
+  Yo! Welcome to w1sky's GitHub profile!
+</h1>
  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Python+%26+JavaScript+Expert;Always+Learning+New+Things;Building+Amazing+Projects&font=Fira%20Code&center=true&width=440&height=45&duration=4000&pause=1000&color=36BCF7)
 

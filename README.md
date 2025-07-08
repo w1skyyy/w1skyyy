@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.gif" alt="👋" width="50" />
+ <img src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Hi.gif" alt="👋" width="50" />
 
 <h1>Yo! Welcome to w1sky's GitHub profile!</h1>
  

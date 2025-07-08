@@ -1,8 +1,8 @@
 <div align="center">
 
 <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.gif" alt="👋" width="40"/>
-  
-#  Yo! Welcome to w1sky's GitHub profile!
+
+<h1>Yo! Welcome to w1sky's GitHub profile!</h1>
  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Python+%26+JavaScript+Expert;Always+Learning+New+Things;Building+Amazing+Projects&font=Fira%20Code&center=true&width=440&height=45&duration=4000&pause=1000&color=36BCF7)
 

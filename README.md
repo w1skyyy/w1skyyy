@@ -29,7 +29,7 @@ I keep it real, stay curious, and always push forward. 📈✨
 💻 **Full-stack is the mission — and I’m all in.**  
 
 ---
-
+<div align="center">
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -57,7 +57,7 @@ I keep it real, stay curious, and always push forward. 📈✨
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+</div>
 ---
 
 ## 📊 GitHub Statistics

@@ -1,9 +1,7 @@
 <div align="center">
 
-<h1>
   <img src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Hi.gif" alt="👋" width="30" style="vertical-align: middle;"/>
-  Yo! Welcome to w1sky's GitHub profile!
-</h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Yo!+Welcome+to+w1sky%27s+GitHub+profile!&center=true&width=600&height=60&font=Fira+Code&color=F7971E&vCenter=true&duration=5000&pause=1000" alt="Intro Text" />
  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Python+%26+JavaScript+Expert;Always+Learning+New+Things;Building+Amazing+Projects&font=Fira%20Code&center=true&width=440&height=45&duration=4000&pause=1000&color=36BCF7)
 

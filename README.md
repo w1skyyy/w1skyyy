@@ -1,7 +1,7 @@
-# 👋 Yo! Welcome to w1sky's GitHub profile!
-
 <div align="center">
   
+# 👋 Yo! Welcome to w1sky's GitHub profile!
+ 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Python+%26+JavaScript+Expert;Always+Learning+New+Things;Building+Amazing+Projects&font=Fira%20Code&center=true&width=440&height=45&duration=4000&pause=1000&color=36BCF7)
 
 </div>
